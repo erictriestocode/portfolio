@@ -1,7 +1,8 @@
 // Why would you use JS in a personal page?
+// For real, keep it light and don't get in the way of people discovering you. Load fast, so you can beat the other candidate to eyeballs.
 
 document.addEventListener("DOMContentLoaded", function(){
     console.log("Look at Mr/Mrs/Ms/Miss hotshot in the console debugging the complete lack of JS in my page!");
     console.log("Did you ever hear the tragedy of Darth Plagueis the Wise? I thought not. It's not a story the Jedi would tell you. It's a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life... He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic, he could save others from death, but not himself.");
-    console.log("I also decided to try to use CSS for animation instead of JS after Stephen said he was a huge fan of CSS animations, and I also really like the idea of having the least amount of JS loaded for a page to work. I'm a big fan of the KISS ideology so the less I can load into the browser the happier I am.")
+    console.log("I also decided to try to use CSS for animation instead of JS after Steven said he was a huge fan of CSS animations, and I also really like the idea of having the least amount of JS loaded for a page to work. I'm a big fan of the KISS ideology so the less I can load into the browser the happier I am.")
 });
