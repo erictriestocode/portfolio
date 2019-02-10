@@ -8,18 +8,16 @@
 
 #picture{
     text-align: center;
+    -webkit-animation: mymove 1s infinite;
+    animation: mymove 2s infinite;
     /* -webkit-animation: rotation 2s
     infinite linear; */
 }
-
-/* @-webkit-keyframes rotation{
-    from{
-        -webkit-transform: rotate(0deg);
-    }
-    to {
-        -webkit-transform: rotate(359deg);
-    }
-} */
+@keyframes mymove{
+    from {
+        transform: rotateZ(0deg);}
+        to {transform: rotateZ(360deg);}
+}
 
 .text{
     text-align: center;
