@@ -8,9 +8,11 @@
 
 #picture{
     position: absolute;
+    transform: rotate(360deg);
+    transform-origin: center;
     /* top: 50%; */
     left: 50%;
-    margin-top: -50px;
+    margin-top: 50px;
     margin-left: -50px;
     width: 100px;
     height: 100px;
@@ -20,6 +22,7 @@
     /* -webkit-animation: rotation 2s
     infinite linear; */
 }
+
 @keyframes mymove{
     from {
         transform: rotateZ(0deg);}
@@ -28,6 +31,7 @@
 
 .text{
     text-align: center;
+    margin-top: 300px;
 }
 
 .nav-wrapper{
