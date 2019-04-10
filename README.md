@@ -19,7 +19,3 @@ TODO:
 - enable SSL for secure browsing
 - correct image animation in CSS
 - I guess some Javascript tricks but why tho?
-
-
-*** OLD UPDATES BELOW ***
-DO NOTE: DNS may not be fully propagated at this point as pointing DNS records to github pages is a little interesting. The idea is that my portfolio will be listed at deprecatedhope.com
