@@ -15,7 +15,7 @@ Site hosting: Github Pages
 
 NOTE: Check your console for some live notes as they appear once the page has loaded.
 
-TODO:
+##TODO:
+- Fix Mobile Navbar for phone browsing(Hamburger menu)
 - enable SSL for secure browsing
 - correct image animation in CSS
-- I guess some Javascript tricks but why tho?
